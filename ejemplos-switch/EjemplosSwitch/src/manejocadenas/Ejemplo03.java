@@ -45,3 +45,6 @@ public class Ejemplo03 {
         
     }
 }
+/*
+sirve para acumular los datos 
+*/
